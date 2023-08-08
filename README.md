@@ -1,5 +1,10 @@
 # Hi there, my name is Karl Albornoz. Nice to meet you!
 
+## Computer Science Student at Weber State University
+
+### Here's some stuff that I've worked on/done
+
+
 <!--
 **Kalbornoz/Kalbornoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
