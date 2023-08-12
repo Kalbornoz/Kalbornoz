@@ -1,9 +1,14 @@
 # Hi there, my name is Karl Albornoz. Nice to meet you!
 
-## Programmer for [Layton City](https://laytoncity.org) by Day / Computer Science student at [Weber State University](https://weber.edu) by Night.
+## Programmer for [Layton City](https://laytoncity.org) by Day
+## Computer Science student at [Weber State University](https://weber.edu) by Night.
 
 ### Here's some stuff that I've worked on/done
+-----------------------------------------------
 
+#### Connect 4
+
+![Connect 4 Demo](Connect4.gif)
 
 <!--
 **Kalbornoz/Kalbornoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
