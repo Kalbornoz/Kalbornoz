@@ -1,6 +1,6 @@
 # Hi there, my name is Karl Albornoz. Nice to meet you!
 
-## Computer Science Student at Weber State University
+## Programmer for [Layton City](https://laytoncity.org) by Day / Computer Science student at [Weber State University](https://weber.edu) by Night.
 
 ### Here's some stuff that I've worked on/done
 
