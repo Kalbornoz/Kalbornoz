@@ -8,11 +8,17 @@
 ### Here's some stuff that I've worked on/done
 -----------------------------------------------
 
-#### Connect 4
+### Connect 4
 
 [https://github.com/Kalbornoz/Connect4](https://github.com/Kalbornoz/Connect4)
 
 ![Connect 4 Demo](Connect4.gif)
+
+### Choose your own Adventure
+
+[https://github.com/Kalbornoz/CS3620_Projects](https://github.com/Kalbornoz/CS3620_Projects)
+
+![Adventure Demo](adventure.gif)
 
 <!--
 **Kalbornoz/Kalbornoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
