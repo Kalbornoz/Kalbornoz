@@ -10,6 +10,8 @@
 
 #### Connect 4
 
+[https://github.com/Kalbornoz/Connect4](https://github.com/Kalbornoz/Connect4)
+
 ![Connect 4 Demo](Connect4.gif)
 
 <!--
