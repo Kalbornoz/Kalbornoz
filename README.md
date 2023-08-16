@@ -7,6 +7,11 @@
 
 ## Here's some stuff that I've worked on/done
 -----------------------------------------------
+### Speed Game
+
+[https://github.com/JS-WSU/speed-game5](https://github.com/JS-WSU/speed-game5)
+
+![Speed Game Demo](speed.gif)
 
 ### Connect 4
 
