@@ -41,6 +41,10 @@
 ### Layton FEST site
 [https://www.laytoncity.org/laytonfest](https://www.laytoncity.org/laytonfest)
 
+## Description
+
+This was a project that I made for work at Layton City. This was my first big experience working with Microsofts new framework Blazor, which is an extension of their .NETCore framework. It is mainly a static site that serves as a flyer for Layton City's FEST activity which takes place on fridays during the summer. I made it using Blazor Server Side as opposed to Blazor Web Assembly (or client side).
+
 <img src="Fest.jpg" alt="fest landing page" width="400"/>
 
 <!--
