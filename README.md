@@ -41,7 +41,7 @@
 ### Layton FEST site
 [https://www.laytoncity.org/laytonfest](https://www.laytoncity.org/laytonfest)
 
-<img src="fest.jpg" alt="fest landing page" width="400"/>
+<img src="Fest.jpg" alt="fest landing page" width="400"/>
 
 <!--
 **Kalbornoz/Kalbornoz** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
